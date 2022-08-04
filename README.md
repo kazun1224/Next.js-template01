@@ -2,5 +2,5 @@
 template
 
 ```bash
-yarn create next-app --example https://github.com/lightsound/Next.js-TypeScript-TailwindCSS-ESLint-Prettier
+yarn create next-app --example https://github.com/kazun1224/Next.js-template01.git
 ```
