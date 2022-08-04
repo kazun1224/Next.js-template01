@@ -1,6 +1,6 @@
 # Next.js + TypeScript + Tailwind CSS + ESLint + Prettier
-template
+My template
 
 ```bash
-yarn create next-app --example https://github.com/kazun1224/Next.js-template01.git
+yarn create next-app . --example https://github.com/kazun1224/Next.js-template01
 ```
